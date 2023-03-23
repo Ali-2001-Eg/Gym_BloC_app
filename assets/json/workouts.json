@@ -1,0 +1,107 @@
+[
+  {
+    "title" : "The Scientific 7-Minute Workout",
+    "exercises" : [
+      {
+          "title" : "Jumping jacks",
+        "prelude" : 10,
+        "duration" : 30
+      },
+      {
+        "title" : "Wall sit",
+        "prelude" : 10,
+        "duration" : 30
+      },
+      {
+        "title" : "Push-ups",
+        "prelude" : 10,
+        "duration" : 30
+      },
+      {
+        "title" : "Abdominal crunch",
+        "prelude" : 10,
+        "duration" : 30
+      },
+      {
+        "title" : "Step-up onto chair",
+        "prelude" : 10,
+        "duration" : 30
+      },
+      {
+        "title" : "Squat",
+        "prelude" : 10,
+        "duration" : 30
+      },
+      {
+        "title" : "jumping jacks",
+        "prelude" : 10,
+        "duration" : 30
+      },
+      {
+        "title" : "Plank",
+        "prelude" : 10,
+        "duration" : 30
+      },
+      {
+        "title" : "Triceps dip on chair",
+        "prelude" : 10,
+        "duration" : 30
+      },
+      {
+        "title": "High knees running in place",
+        "prelude": 10,
+        "duration": 30
+      },
+      {
+        "title" : "Lunges",
+        "prelude" : 10,
+        "duration" : 30
+      },
+      {
+        "title" : "Push-downs",
+        "prelude" : 10,
+        "duration" : 30
+      }
+    ]
+  },
+  {
+    "title" : "Core, Upper-body and Glutes",
+    "exercises" : [
+      {
+          "title" : "Jumping jacks",
+          "prelude" : 10,
+          "duration" : 30
+      },
+      {
+        "title" : "Wall sit",
+        "prelude" : 10,
+        "duration" : 30
+      },
+      {
+        "title" : "Push-up",
+        "prelude" : 10,
+        "duration" : 30
+      },
+      {
+        "title" : "Abdominal crunch",
+        "prelude" : 10,
+        "duration" : 30
+      },
+      {
+        "title" : "Step-up onto chair",
+        "prelude" : 10,
+        "duration" : 30
+      },
+      {
+        "title" : "Squat",
+        "prelude" : 10,
+        "duration" : 30
+      },
+      {
+        "title" : "jumping jacks",
+        "prelude" : 10,
+        "duration" : 30
+      }
+    ]
+  }
+]
